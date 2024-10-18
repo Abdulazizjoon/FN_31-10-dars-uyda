@@ -740,12 +740,36 @@ video {
   margin-left: 37%;
 }
 
+.mt-14 {
+  margin-top: 3.5rem;
+}
+
 .mt-16 {
   margin-top: 4rem;
 }
 
 .mt-2 {
   margin-top: 0.5rem;
+}
+
+.mb-14 {
+  margin-bottom: 3.5rem;
+}
+
+.mb-\[73px\] {
+  margin-bottom: 73px;
+}
+
+.mb-\[16px\] {
+  margin-bottom: 16px;
+}
+
+.mb-\[\] {
+  margin-bottom: ;
+}
+
+.mb-\[7\] {
+  margin-bottom: 7;
 }
 
 .box-border {
@@ -869,6 +893,14 @@ video {
 
 .w-full {
   width: 100%;
+}
+
+.w-\[462px\] {
+  width: 462px;
+}
+
+.w-\[470px\] {
+  width: 470px;
 }
 
 .max-w-\[1175px\] {
@@ -1401,6 +1433,10 @@ video {
   gap: 2rem;
 }
 
+.gap-28 {
+  gap: 7rem;
+}
+
 .space-x-2 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-x-reverse: 0;
   margin-right: calc(0.5rem * var(--tw-space-x-reverse));
@@ -1860,6 +1896,15 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
+.bg-\[\] {
+  background-color: ;
+}
+
+.bg-\[\#212529\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(33 37 41 / var(--tw-bg-opacity));
+}
+
 .decoration-slice {
   -webkit-box-decoration-break: slice;
           box-decoration-break: slice;
@@ -1993,6 +2038,11 @@ video {
 .py-3 {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
+}
+
+.px-7 {
+  padding-left: 1.75rem;
+  padding-right: 1.75rem;
 }
 
 .pb-20 {
